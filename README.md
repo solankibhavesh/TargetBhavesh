@@ -15,3 +15,11 @@
 - [Retrofit+OkHttp](https://square.github.io/retrofit/): for api calls
 - [Dagger Hilt](https://developer.android.com/training/dependency-injection/hilt-android) for Dependency Injection
 - [Coil](https://coil-kt.github.io/coil/compose/) for image loading backed by Kotlin coroutines system language
+
+## Screenshots
+<div align="center">
+    <img src="/screenshots/details_dark.jpeg" width="400px"/> 
+    <img src="/screenshots/details_light.jpeg" width="400px"/> 
+    <img src="/screenshots/list_dark.jpeg" width="400px"/> 
+    <img src="/screenshots/list_light.jpeg" width="400px"/>
+</div>
