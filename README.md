@@ -18,8 +18,8 @@
 
 ## Screenshots
 <div align="center">
-    <img src="/screenshots/details_dark.jpeg" width="400px"/> 
-    <img src="/screenshots/details_light.jpeg" width="400px"/> 
-    <img src="/screenshots/list_dark.jpeg" width="400px"/> 
-    <img src="/screenshots/list_light.jpeg" width="400px"/>
+    <img src="/screenshots/details_dark.jpeg" width="200px"/> 
+    <img src="/screenshots/details_light.jpeg" width="200px"/> 
+    <img src="/screenshots/list_dark.jpeg" width="200px"/> 
+    <img src="/screenshots/list_light.jpeg" width="200px"/>
 </div>
