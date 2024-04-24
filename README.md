@@ -4,7 +4,7 @@
   </a>
 </div>
 
-# Bhavesh Target Assignment
+# Bhavesh ECom Product Listing Sample
 
 ## What does it use?
 
